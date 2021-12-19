@@ -1,0 +1,14 @@
+$link_color:#16db9a;
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+}
+a {
+  color: $link_color;
+  font-weight: bolder;
+  text-decoration:none;
+}

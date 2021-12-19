@@ -1,0 +1,1 @@
+> everything in the public are in root
